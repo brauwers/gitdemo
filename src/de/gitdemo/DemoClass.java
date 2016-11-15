@@ -6,6 +6,10 @@ public class DemoClass {
 
 		System.out.println("Hello World");
 		// add conflict on master
+		
+		// add feature on fb4
+		
+		// add another conflict on master
 		System.out.println("Hi ho to the world");
 	}
 
