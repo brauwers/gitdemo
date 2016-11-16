@@ -7,6 +7,8 @@ public class DemoClass {
 		System.out.println("Hello World");
 		// add conflict on master
 		
+		
+		// Add feature 5
 
 
 		System.out.println("Hallo Elfe");
